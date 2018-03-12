@@ -1,0 +1,5 @@
+env/*
+data/*
+*.pyc
+mnist_loader1.py
+nn.py
